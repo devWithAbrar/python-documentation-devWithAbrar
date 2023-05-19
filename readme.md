@@ -30,10 +30,11 @@ There are `two` types of comments in Python.
 
 ### <u> Single Line Comment: </u>
 
-- To write single line comments in python we can use `#` sign. Example below:
-    ```python
-    # This is Example Single Line Comment.
-    ``` 
+- To write single line comments in python we can use `#` sign. 
+#### Example:
+```python
+# This is Example Single Line Comment.
+``` 
 
 ### <u> Multi Line Comment: </u>
 
