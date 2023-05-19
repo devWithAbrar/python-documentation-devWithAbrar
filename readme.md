@@ -12,7 +12,9 @@ First Create a file with `.py` extension. For Example `hello.py`. And Write the 
 ```python
 print("Hello, World!")
 ```
+
 You will see the following `Output`
+
 > Hello, World!
 
 <br />
