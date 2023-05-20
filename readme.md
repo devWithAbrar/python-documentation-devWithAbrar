@@ -37,15 +37,28 @@ There are `two` types of comments in Python.
 
 ### <u> Multi Line Comment: </u>
 
-- To Write Multi Line Comments we can use three sigle coutes at the start and three single coutes at the End. Example below:
+- To Write Multi Line Comments we can use three sigle or double coutes at the start and three single or double coutes at the End.
 
-    ```python
-    '''
-    This is Example Multi Line Comment.
-    This is Example Multi Line Comment.
-    This is Example Multi Line Comment.
-    This is Example Multi Line Comment.
-    '''
-    ```
+#### Example-1:
+
+```python
+'''
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+'''
+```
+#### Example-2:
+
+```python
+"""
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+This is Example Multi Line Comment.
+"""
+```
+
 
 
